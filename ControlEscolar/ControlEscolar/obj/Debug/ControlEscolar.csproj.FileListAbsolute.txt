@@ -1,0 +1,82 @@
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\LogicaNegocio.ControlEscolar.dll
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.dll
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\LogicaNegocio.ControlEscolar.pdb
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.pdb
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojAssemblyReference.cache
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.FrmUsuarios.resources
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.cache
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.CoreCompileInputs.cache
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.CopyComplete
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+E:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\LogicaNegocio.ControlEscolar.dll
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.dll
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\LogicaNegocio.ControlEscolar.pdb
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.pdb
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojAssemblyReference.cache
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.FrmUsuarios.resources
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.cache
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.CoreCompileInputs.cache
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.CopyComplete
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Pantallaprincipal.resources
+D:\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Alumnos.resources
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\LogicaNegocio.ControlEscolar.dll
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.dll
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\LogicaNegocio.ControlEscolar.pdb
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.pdb
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojAssemblyReference.cache
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Alumnos.resources
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.FrmUsuarios.resources
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Pantallaprincipal.resources
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.cache
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.CoreCompileInputs.cache
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.CopyComplete
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\LogicaNegocio.ControlEscolar.dll
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.dll
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\MySql.Data.dll
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\LogicaNegocio.ControlEscolar.pdb
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\bin\Debug\AccesoDatos.ControlEscolar.pdb
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojAssemblyReference.cache
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Alumnos.resources
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.FrmUsuarios.resources
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Pantallaprincipal.resources
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Profesores.resources
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.cache
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.CoreCompileInputs.cache
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.CopyComplete
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Profesores.resources
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Materias.resources
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Escuela.resources

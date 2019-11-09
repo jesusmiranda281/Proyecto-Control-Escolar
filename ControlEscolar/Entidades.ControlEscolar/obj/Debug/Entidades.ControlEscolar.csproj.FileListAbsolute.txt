@@ -1,0 +1,24 @@
+E:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+E:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+E:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csprojAssemblyReference.cache
+E:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csproj.CoreCompileInputs.cache
+E:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.dll
+E:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.pdb
+D:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+D:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+D:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csprojAssemblyReference.cache
+D:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csproj.CoreCompileInputs.cache
+D:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.dll
+D:\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.pdb
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csprojAssemblyReference.cache
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csproj.CoreCompileInputs.cache
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.dll
+D:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.pdb
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.dll
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\bin\Debug\Entidades.ControlEscolar.pdb
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csprojAssemblyReference.cache
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.csproj.CoreCompileInputs.cache
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.dll
+E:\5to. Semestre\Taller de base de datos\ControlEscolar\Entidades.ControlEscolar\obj\Debug\Entidades.ControlEscolar.pdb
